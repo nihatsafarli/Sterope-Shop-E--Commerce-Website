@@ -1201,7 +1201,7 @@ footer .copyright p span {
     }
 
     #lg-bag {
-        display: none;
+        display: flex;
     }
 
     #hero {
